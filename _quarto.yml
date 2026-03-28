@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Pour une pédagogie perceptive"
+  author: "Matthieu Gaudeau"
+  date: "2026"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - chapitre-1.qmd
+    - bibliographie.qmd
+
+bibliography: references.bib
+
+lang: fr
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: cover.png
