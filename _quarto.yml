@@ -1,8 +1,11 @@
 project:
   type: book
   output-dir: docs
+
 book:
+  search: false
   title: "Pour une pédagogie perceptive"
+  subtitle: ""
   author: "Matthieu Gaudeau"
   date: "2026"
   chapters:
@@ -14,10 +17,11 @@ book:
 bibliography: references.bib
 
 lang: fr
+number-sections: false
 
 format:
   html:
-    theme: cosmo
-
+    theme: flatly
+    css: styles.css
   epub:
     cover-image: cover.png

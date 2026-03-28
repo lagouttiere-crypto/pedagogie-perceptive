@@ -1,20 +1,14 @@
 {
   "index.qmd": {
-    "index.html": "4366b54d"
+    "index.html": "022e91a1"
   },
   "intro.qmd": {
-    "intro.html": "dc4ee8f9"
-  },
-  "summary.qmd": {
-    "summary.html": "d57747d9"
-  },
-  "references.qmd": {
-    "references.html": "a8e1384d"
+    "intro.html": "a71ff75e"
   },
   "chapitre-1.qmd": {
-    "chapitre-1.html": "92758b2e"
+    "chapitre-1.html": "437a52ca"
   },
   "bibliographie.qmd": {
-    "bibliographie.html": "5c9f97fa"
+    "bibliographie.html": "acce2173"
   }
 }
