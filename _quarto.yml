@@ -12,6 +12,7 @@ book:
     - index.qmd
     - intro.qmd
     - chapitre-1.qmd
+    - premiere-exploration.qmd
     - bibliographie.qmd
 
 bibliography: references.bib
