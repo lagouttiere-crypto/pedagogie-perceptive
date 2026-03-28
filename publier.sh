@@ -2,7 +2,10 @@
 
 OBSIDIAN="/Users/matthieugaudeau/Library/Mobile Documents/iCloud~md~obsidian/Documents/Technique Alexander/noyau théorique/Pédagogie-Perceptive"
 
-# Copie tous les fichiers md vers qmd
+# Copie index
+cp "$OBSIDIAN/index.md" /Users/matthieugaudeau/Documents/pedagogie-enactive/index.qmd
+
+# Copie tous les fichiers numérotés
 for f in "$OBSIDIAN"/[0-9]*.md; do
     base=$(basename "$f" .md)
     cp "$f" /Users/matthieugaudeau/Documents/pedagogie-enactive/"$base".qmd
