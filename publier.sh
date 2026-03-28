@@ -2,10 +2,16 @@
 
 OBSIDIAN="/Users/matthieugaudeau/Library/Mobile Documents/iCloud~md~obsidian/Documents/Technique Alexander/noyau théorique/Pédagogie-Perceptive"
 
-cp "$OBSIDIAN/introduction.md" /Users/matthieugaudeau/Documents/pedagogie-enactive/intro.qmd
-cp "$OBSIDIAN/chapitre-1.md" /Users/matthieugaudeau/Documents/pedagogie-enactive/chapitre-1.qmd
+# Copie tous les fichiers md vers qmd
+for f in "$OBSIDIAN"/[0-9]*.md; do
+    base=$(basename "$f" .md)
+    cp "$f" /Users/matthieugaudeau/Documents/pedagogie-enactive/"$base".qmd
+done
+
+# Copie les images
 cp -r "$OBSIDIAN/photos/" /Users/matthieugaudeau/Documents/pedagogie-enactive/images/
 
+# Publie
 quarto render
 git add .
 git commit -m "mise à jour"

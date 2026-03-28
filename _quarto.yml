@@ -9,11 +9,11 @@ book:
   author: "Matthieu Gaudeau"
   date: "2026"
   chapters:
-    - index.qmd
-    - intro.qmd
-    - chapitre-1.qmd
-    - premiere-exploration.qmd
-    - bibliographie.qmd
+    - 01-table des matières.qmd
+    - 02-Introduction.qmd
+    - 03-Chapitre-1.qmd
+    - 04-Premiere-exploration.qmd
+    - 150-Bibliographie.qmd
 
 bibliography: references.bib
 
