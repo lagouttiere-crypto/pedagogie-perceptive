@@ -88,3 +88,9 @@ body, p, li {
   padding-left: 0 !important;
   margin-left: 0 !important;
 }
+/* Séparateurs entre sections */
+#quarto-sidebar .sidebar-item + .sidebar-item {
+  border-top: 1px solid rgba(255,255,255,0.15) !important;
+  padding-top: 8px !important;
+  margin-top: 8px !important;
+}
