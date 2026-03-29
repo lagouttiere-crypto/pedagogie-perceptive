@@ -14,6 +14,7 @@ book:
     - 02-introduction.qmd
     - 03-Chapitre-1.qmd
     - 04-Premiere-exploration.qmd
+    - 05-Comment-tenir-ce-livre.qmd
     - 150-Bibliographie.qmd
 bibliography: references.bib
 
