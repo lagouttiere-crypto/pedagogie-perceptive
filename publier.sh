@@ -15,8 +15,8 @@ done
 cp -r "$OBSIDIAN/photos/" /Users/matthieugaudeau/Documents/pedagogie-enactive/images/
 
 # Publie
-cp images/cover.jpg docs/images/
 quarto render
+cp images/cover.jpg docs/images/
 git add .
 git commit -m "mise à jour"
 git push
