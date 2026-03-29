@@ -27,4 +27,4 @@ format:
     css: styles.css
     page-layout: article
   epub:
-    cover-image: cover.png
+    cover-image: cover.jpg
