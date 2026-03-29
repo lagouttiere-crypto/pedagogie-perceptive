@@ -1,4 +1,10 @@
-![](images/cover.jpg)
+---
+title: "Accueil"
+---
 
 
+![](images/cover.jpg){width=80%}
+
+::: {.column-margin}
 [📖 Télécharger l'epub](Pour-une-pédagogie-perceptive.epub){.btn .btn-primary}
+:::
