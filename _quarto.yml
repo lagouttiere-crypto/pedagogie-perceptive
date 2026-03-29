@@ -11,7 +11,6 @@ book:
   chapters:
     - index.qmd
     - 01-Table-des-matieres.qmd
-    - 01-Tables-des-matieres.qmd
     - 02-introduction.qmd
     - 03-Chapitre-1.qmd
     - 04-Premiere-exploration.qmd
