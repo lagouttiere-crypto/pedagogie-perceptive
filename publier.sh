@@ -14,6 +14,20 @@ done
 # Copie les images
 cp -r "$OBSIDIAN/photos/" /Users/matthieugaudeau/Documents/pedagogie-enactive/images/
 
+# Génère automatiquement la liste des chapitres dans _quarto.yml
+CHAPTERS="  chapters:\n    - index.qmd"
+for f in /Users/matthieugaudeau/Documents/pedagogie-enactive/[0-9]*.qmd; do
+    base=$(basename "$f")
+    CHAPTERS="$CHAPTERS\n    - $base"
+done
+
+# Met à jour _quarto.yml
+sed -i '' '/  chapters:/,/^[^ ]/{ /  chapters:/!{ /^[^ ]/!d; }; }' _quarto.yml
+sed -i '' "s|  chapters:|$CHAPTERS|" _quarto.yml
+
+# Copie cover après render
+cp images/cover.jpg docs/images/ 2>/dev/null
+
 # Publie
 quarto render
 cp images/cover.jpg docs/images/
