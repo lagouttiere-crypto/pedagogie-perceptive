@@ -1,6 +1,6 @@
-# Chapitre 2 - L'attention comme accordage
+# L'attention comme accordage
 
-![](images/octo.png)
+![L'Octobot, robot en silicone sans cerveau [@octobot2016]](images/octo.png)
 
 *Dès que vous pensez à ce que vous voulez accomplir, vous cessez de prêter attention à ce par quoi vous l'accomplissez.* F.M. Alexander
 
