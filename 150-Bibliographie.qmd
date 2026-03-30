@@ -1,24 +1,46 @@
-# Bibliographie 
+# Bibliographie
 
+Abram, David, *Devenir animal. Une cosmologie terrestre*, trad. Didier Demorcy, Paris, La Découverte, 2013 (éd. originale : *Becoming Animal*, New York, Pantheon Books, 2010).
 
-Bigé, Emma, "Note sur le concept de geste", _Pour un atlas des figures_, en ligne : pourunatlasdesfigures.net.
+Ajuriaguerra, Julian de et René Angelergues, "De la psychomotricité au corps dans la relation avec autrui : à propos de l'œuvre de Henri Wallon", *L'évolution psychiatrique*, vol. 27, 1962, p. 24-36.
 
-Bigé, Emma, _Mouvementements. Écopolitiques de la danse_, Paris, La Découverte, coll. "Terrains philosophiques", 2023.
+Benveniste, Émile, "Actif et moyen dans le verbe", dans *Problèmes de linguistique générale*, tome I, Paris, Gallimard, 1966, p. 168-175.
 
-Bullinger, André, _Le développement sensori-moteur de l'enfant et ses avatars_, Toulouse, Érès, 2004.
+Bigé, Emma, "Note sur le concept de geste", *Pour un atlas des figures*, en ligne : pourunatlasdesfigures.net.
 
-Gibson, James J., _Approche écologique de la perception visuelle_, trad. Olivier Putois, Paris, Dehors, 2014 (éd. originale : _The Ecological Approach to Visual Perception_, Boston, Houghton Mifflin, 1979).
+Bigé, Emma, *Mouvementements. Écopolitiques de la danse*, Paris, La Découverte, coll. "Terrains philosophiques", 2023.
 
-Glon, Marie et Launay, Isabelle (dir.), _Histoires de gestes_, Arles, Actes Sud, 2012.
+Brooks, Rodney, "A robust layered control system for a mobile robot", *IEEE Journal of Robotics and Automation*, vol. 2, 1986, p. 14-23.
 
-Husserl, Edmund, _Idées directrices pour une phénoménologie pure et une philosophie phénoménologique_, tome I, trad. Paul Ricœur, Paris, Gallimard, 1950 (éd. originale : _Ideen zu einer reinen Phänomenologie_, 1913).
+Bullinger, André, *Le développement sensori-moteur de l'enfant et ses avatars*, Toulouse, Érès, 2004.
 
-Husserl, Edmund, _La Terre ne se meut pas_, trad. Didier Franck, Paris, Minuit, 1989 (manuscrit de 1934).
+Estran, Gilles, *Leçons de Technique Alexander auprès de danseurs valides et handicapés moteur de la Klaus Compagnie*, mémoire pour l'obtention du Diplôme Universitaire Techniques du corps et monde du soin, sous la direction d'Isabelle Ginot, Université Paris 8, soutenu le 28 septembre 2012.
 
-Merleau-Ponty, Maurice, _Phénoménologie de la perception_, Paris, Gallimard, 1945.
+Gibson, James J., *Approche écologique de la perception visuelle*, trad. Olivier Putois, Paris, Dehors, 2014 (éd. originale : *The Ecological Approach to Visual Perception*, Boston, Houghton Mifflin, 1979).
 
-Merleau-Ponty, Maurice, _Le Visible et l'Invisible_, Paris, Gallimard, 1968.
+Glon, Marie et Isabelle Launay (dir.), *Histoires de gestes*, Arles, Actes Sud, 2012.
 
-Varela, Francisco, Thompson, Evan et Rosch, Eleanor, _L'inscription corporelle de l'esprit. Sciences cognitives et expérience humaine_, trad. Véronique Havelange, Paris, Seuil, 1993 (éd. originale : _The Embodied Mind_, Cambridge, MIT Press, 1991).
+Godard, Hubert, "Fond-figure", entretien vidéo, *Pour un atlas des figures*, en ligne : pourunatlasdesfigures.net/element/fond-figure-entretien-avec-hubert-godard.
 
+Godard, Hubert, entretien avec Emma Bigé, dans Emma Bigé, *Mouvementements. Écopolitiques de la danse*, Paris, La Découverte, coll. "Terrains philosophiques", 2023.
+
+Godard, Hubert, cité dans Laetitia Doat, Marie Glon et Isabelle Launay, "Introduction", dans Marie Glon et Isabelle Launay (dir.), *Histoires de gestes*, Arles, Actes Sud, 2012, p. 17.
+
+Held, Richard et Alan Hein, "Movement-produced stimulation in the development of visually guided behavior", *Journal of Comparative and Physiological Psychology*, vol. 56, 1963, p. 872-876.
+
+Husserl, Edmund, *Idées directrices pour une phénoménologie pure et une philosophie phénoménologique*, tome I, trad. Paul Ricœur, Paris, Gallimard, 1950 (éd. originale : *Ideen zu einer reinen Phänomenologie*, 1913).
+
+Husserl, Edmund, *La Terre ne se meut pas*, trad. Didier Franck, Paris, Minuit, 1989 (manuscrit de 1934).
+
+Merleau-Ponty, Maurice, *Phénoménologie de la perception*, Paris, Gallimard, 1945.
+
+Merleau-Ponty, Maurice, *Le Visible et l'Invisible*, Paris, Gallimard, 1968.
+
+Patočka, Jan, *Le monde naturel et le mouvement de l'existence humaine*, trad. Erika Abrams, Dordrecht, Kluwer Academic Publishers, 1988.
+
+Stern, Daniel N., *Le monde interpersonnel du nourrisson*, trad. Alain Lazartigues et Dominique Pérard, Paris, PUF, 1989 (éd. originale : *The Interpersonal World of the Infant*, New York, Basic Books, 1985).
+
+Truby, Ryan L. et al., "Digitally printed fluidic actuators for soft robotics", *Nature*, vol. 536, 2016, p. 400-403.
+
+Varela, Francisco, Evan Thompson et Eleanor Rosch, *L'inscription corporelle de l'esprit. Sciences cognitives et expérience humaine*, trad. Véronique Havelange, Paris, Seuil, 1993 (éd. originale : *The Embodied Mind*, Cambridge, MIT Press, 1991).
 
