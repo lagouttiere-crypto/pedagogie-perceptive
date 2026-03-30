@@ -26,6 +26,5 @@ format:
   html:
     theme: flatly
     css: styles.css
-    page-layout: article
   epub:
     cover-image: images/cover-epub.png
