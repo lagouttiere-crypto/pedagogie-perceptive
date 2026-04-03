@@ -78,7 +78,6 @@ body, p, li {
 }
 
 
-
 /* Gouttière grille */
 #quarto-content.page-columns {
   column-gap: 0 !important;
@@ -90,4 +89,54 @@ body, p, li {
   border-top: 1px solid rgba(255,255,255,0.15) !important;
   padding-top: 8px !important;
   margin-top: 8px !important;
+}
+
+/* Notes marginales */
+.column-margin {
+  opacity: 0.35;
+  transition: opacity 0.3s ease;
+  font-family: 'Fira Sans', sans-serif !important;
+  font-size: 13px !important;
+  line-height: 1.5 !important;
+  color: #444 !important;
+}
+
+.column-margin:hover {
+  opacity: 1;
+}
+
+/* Label CONCEPT · NOM */
+.concept-label {
+  font-family: 'Jost', sans-serif !important;
+  font-size: 11px !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  color: #7b6fa0 !important;
+  font-weight: 700 !important;
+  margin-bottom: 4px !important;
+}
+
+/* Lien vers chapitre */
+.concept-link {
+  font-style: italic !important;
+  color: #7b6fa0 !important;
+  font-size: 12px !important;
+  margin-top: 6px !important;
+  display: block !important;
+}
+
+/* Texte surligné violet */
+.mark-concept {
+  background: rgba(123, 111, 160, 0.15) !important;
+  border-left: 2px solid #7b6fa0 !important;
+  padding: 0 3px !important;
+  border-radius: 2px !important;
+}
+
+/* Texte surligné vert */
+.mark-link {
+  background: rgba(80, 160, 120, 0.15) !important;
+  border-left: 2px solid #50a078 !important;
+  padding: 0 3px !important;
+  border-radius: 2px !important;
 }
