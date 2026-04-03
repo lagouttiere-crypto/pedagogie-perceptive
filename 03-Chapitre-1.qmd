@@ -34,7 +34,16 @@ La distinction fondamentale de Godard : le mouvement est biomécanique, le geste
 
 :::
 
-Hubert Godard propose cette distinction éclairante [@godard2012] : le mouvement relève du déplacement biomécanique observable, trajectoire d'un membre dans l'espace, activation de groupes musculaires, cinématique articulaire. Une machine peut produire un mouvement : le bras d'un robot industriel qui saisit une pièce sur une chaîne de montage effectue un mouvement parfaitement reproductible, mesurable, analysable en termes de forces et de trajectoires. Le geste, lui, appartient à un autre ordre de réalité. Hubert Godard le définit comme ce qui s'inscrit dans l'écart entre le mouvement visible et la toile de fond tonique du sujet, ce qu'il nomme le pré-mouvement. C'est dans cet écart, dans cette coloration, que réside l'expressivité du geste humain, que la machine ne possède pas. Nous ne faisons jamais deux fois le même geste, parce que le geste est adresse, il porte toujours en lui un tiers qui l'empêche de se refermer. Et c'est cette ouverture même, cette instabilité constitutive, qui en permet paradoxalement la lecture.
+Hubert Godard propose cette distinction éclairante [@godard2012] : le mouvement relève du déplacement biomécanique observable, trajectoire d'un membre dans l'espace, activation de groupes musculaires, cinématique articulaire. Une machine peut produire un mouvement : le bras d'un robot industriel qui saisit une pièce sur une chaîne de montage effectue un mouvement parfaitement reproductible, mesurable, analysable en termes de forces et de trajectoires. Le geste, lui, appartient à un autre ordre de réalité. Hubert Godard le définit comme ce qui s'inscrit dans l'écart entre le mouvement visible et la toile de fond tonique du sujet, ce qu'il nomme le pré-mouvement. [l'expressivité du geste humain, que la machine ne possède pas]{.mark-concept}. Nous ne faisons jamais deux fois le même geste, parce que le geste est adresse, il porte toujours en lui un tiers qui l'empêche de se refermer. Et c'est cette ouverture même, cette instabilité constitutive, qui en permet paradoxalement la lecture. 
+
+::: {.column-margin} 
+
+**RÉSONANCE · MASSUMI** 
+[![](images/ours-combat.png){width=180}](https://garden-gester.fr/massumi-variation) > *L'excès stylistique du jeu correspond à une puissance de variation. La forme du geste se déforme sous la pression de l'enthousiasme du corps qui le propulse.* Brian Massumi, *Ce que les bêtes nous apprennent de la politique*, p. 30. 
+
+::: 
+
+Nous ne faisons jamais deux fois le même geste, parce que le geste est adresse, il porte toujours en lui un tiers qui l'empêche de se refermer. Et c'est cette ouverture même, cette instabilité constitutive, qui en permet paradoxalement la lecture.
 
 Saisir un verre d'eau, en tant que mouvement, c'est une coordination main-bras-épaule, une préhension palmaire, un ajustement de la force de serrage, du rapport gravitaire. Trinquer avec ce même verre lors d'une soirée d'anniversaire, c'est accomplir un geste. Trinquer, c'est faire signe à l'autre, s'inscrire dans un rituel de convivialité, manifester une intention sociale, habiter par des gestes, un monde rythmé et tissé de liens. Le mouvement biomécanique est identique ou presque, lever le verre, le déplacer vers celui de l'autre. [Mais le geste configure un monde]{.mark-concept} : un monde où existe la célébration, la reconnaissance mutuelle, le lien.
 
