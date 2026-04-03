@@ -50,7 +50,7 @@ Le livre en construction, chapitre après chapitre. Écriture appliquée, progre
 
 **ESPACE · JARDIN**
 
-[![](images/garden-gester-logo.png){width=100}](https://garden-gester.fr)
+[![](images/garden-gester-logo.jpg){width=150}](https://garden-gester.fr)
 
 Le jardin numérique — plus ensauvagé, plus libre. Notes, fragments, connexions inattendues. Le journal de bord de l'écriture y paraît régulièrement.
 
