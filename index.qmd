@@ -28,6 +28,7 @@ Ce projet d'écriture est ma modeste contribution à cette aventure utopique des
 ---
 
 ### Trois lieux numériques
+[![](images/carte.png)
 
 Ce projet s'articule autour de trois espaces. 
 Le contenu qu'il convoque est on ne peut plus pratique et repose avant tout sur une pratique de la présence. Ces espaces ne remplaceront pas une pédagogie incarnée, mais d'expérience, certains textes m'ont ouvert de façon radicale à des intuitions pratiques que je ne renierais pour rien au monde. J'ai pour leurs auteurs une reconnaissance infinie. Ils m'accompagnent avec une constance indéfectible depuis des dizaines d'années. J'espère secrètement, et bien modestement, que ces objets numériques puissent faire à leur façon et à leur échelle, de même.
