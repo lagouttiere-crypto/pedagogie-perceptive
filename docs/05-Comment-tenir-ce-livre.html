@@ -202,6 +202,35 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
+
+<style>
+.margin-tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.margin-tooltip .tooltip-text {
+  visibility: hidden;
+  opacity: 0;
+  width: 220px;
+  background: #182058;
+  color: #eef2ff;
+  font-size: 11px;
+  line-height: 1.5;
+  padding: 10px 12px;
+  border-radius: 4px;
+  position: absolute;
+  right: 105%;
+  top: 0;
+  transition: opacity 0.3s ease;
+  font-style: italic;
+}
+
+.margin-tooltip:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
