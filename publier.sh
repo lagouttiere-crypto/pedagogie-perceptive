@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OBSIDIAN="/Users/matthieugaudeau/Library/Mobile Documents/iCloud~md~obsidian/Documents/Technique Alexander/noyau théorique/Pédagogie-Perceptive"
+OBSIDIAN="/Users/matthieugaudeau/Library/Mobile Documents/iCloud~md~obsidian/Documents/Technique Alexander/noyau théorique/70 - Pédagogie-Perceptive"
 
 # Copie index
 cp "$OBSIDIAN/index.md" /Users/matthieugaudeau/Documents/pedagogie-enactive/index.qmd
