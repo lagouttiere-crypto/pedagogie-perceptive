@@ -140,13 +140,15 @@ Invariant absolu qui traverse tout le livre. Organisateur primordial de la diff�
 
 :::
 
-C'est autour de cet axe que quelque chose comme un "je" commence à s'extraire du flux. Non pas comme une substance qui se découvrirait préformée, mais comme un pattern stable qui émerge progressivement des coordinations répétées [^varela-enaction]{.mark-concept} [@varela1991 ; @thompson2007], coordinations où gravitaire, affectif, perceptif et relationnel ne sont jamais trois choses séparées qui s'additionnent, mais trois aspects d'un seul événement de la chair. Se redresser pour voir quelqu'un, c'est simultanément négocier avec la gravité, exprimer un accordage affectif, s'ouvrir au geste. Le "je" émerge dans ce triple mouvement, pas avant lui.
+C'est autour de cet axe que quelque chose comme un "je" commence à s'extraire du flux. Non pas comme une substance qui se découvrirait préformée, mais [comme un pattern stable qui émerge progressivement des coordinations répétées] {.mark-concept}, coordinations où gravitaire, affectif, perceptif et relationnel ne sont jamais trois choses séparées qui s'additionnent, mais trois aspects d'un seul événement de la chair. Se redresser pour voir quelqu'un, c'est simultanément négocier avec la gravité, exprimer un accordage affectif, s'ouvrir au geste. Le "je" émerge dans ce triple mouvement, pas avant lui.
 
 ::: {.column-margin} 
 
 CONCEPT · ÉNACTION 
 
-Varela, Thompson & Rosch : le "je" n'est pas une substance préformée mais un pattern émergent de coordinations sensori-motrices répétées. La cognition comme co-émergence organisme-monde. → Carte 2-3, "L'énaction : co-émergence, le sens qui advient" en écriture.
+Varela, Thompson & Rosch : le "je" n'est pas une substance préformée mais un pattern émergent de coordinations sensori-motrices répétées. La cognition comme co-émergence organisme-monde. 
+
+_À venir — Ch. 2 :  "L'énaction : co-émergence, le sens qui advient" 
 
 :::
 
